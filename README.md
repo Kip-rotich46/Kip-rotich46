@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kip-rotich46
 - 👀 I’m a softwaredeveloper with expertise on js, python, java, c++
-- 🌱 I’m currently learning react
+- Proficiency in React js, Node js
 - 💞️ I’m looking to collaborate on any project available, tag me along
 - 📫 How to reach me ...  https://www.linkedin.com/in/gideon-langat-b3a274221
 
